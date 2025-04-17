@@ -19,11 +19,6 @@ body {
     border-radius: 10px;
 }
 
-.celula-arcana {
-    background-color: rgba(0, 0, 0, 0.4);
-    border: 1px solid rgba(255, 215, 0, 0.6); /* dourado */
-    box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
-    border-radius: 6px;
-    padding: 10px;
-    color: #fff;
+.celula-transparente {
+    background-color: rgba(255, 255, 255, 0.4);
 }
