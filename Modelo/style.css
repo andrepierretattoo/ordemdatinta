@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Conteudo {
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.Conteudo::-webkit-scrollbar {
+    width: 10px;
+    background-color: ##b8a67a;
+    border-radius: 10px;
+    
+.Conteudo::-webkit-scrollbar-thumb {
+    background-color: #453e2d
+    border-radius: 10px;
+}
